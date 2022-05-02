@@ -1,0 +1,32 @@
+#navbar{
+    display: flex;
+    height: 50px;
+    width: 100%;
+    border: 1px solid black;
+    justify-content: space-evenly;
+    margin: auto;
+}
+#search_id{
+    margin-top: 10px;
+    height: 30px;
+    width:60%;
+    border-radius:20px;
+   border:1px solid teal;
+
+}
+#navbar h3{
+    color: darkolivegreen;
+
+}
+#sidebar{
+    height:400px;
+    width:150px;
+}
+#sidebar h3{
+  border:1px solid grey;
+  border-radius: 10px;
+  text-align: center;
+  color: brown;
+  cursor: pointer;
+
+}
